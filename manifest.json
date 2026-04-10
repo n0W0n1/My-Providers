@@ -1,0 +1,18 @@
+{
+  "name": "n0W0n1's Providers",
+  "version": "1.0.0",
+  "scrapers": [
+    {
+      "id": "sflix",
+      "name": "SFlix",
+      "description": "SFlix streaming (English). Uses RabbitStream/UpCloud servers.",
+      "version": "1.0.0",
+      "author": "Community",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/sflix.js",
+      "enabled": true,
+      "logo": "https://img.sflix.to/xxrz/400x400/100/66/35/66356c25ce98cb12993249e21742b129/66356c25ce98cb12993249e21742b129.png",
+      "contentLanguage": ["en"]
+    }
+  ]
+}
